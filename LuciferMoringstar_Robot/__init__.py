@@ -20,7 +20,7 @@ Bro, Check Movie Name In #Google and Try ! Then No Results Add Movie Year and Tr
 
 എനിയും കിട്ടിയില്ലെങ്കിൽ ആ മൂവി ഞങ്ങളുടെ ഡാറ്റാബേസിൽ ഇല്ല, അല്ലെങ്കിൽ ആ മൂവി ഇറങ്ങിയിട്ടില്ല എന്ന് മനസ്സിലാക്കുക! 🤗⚠
 
-️📌 Any Help For Movie Searching Contact Admin @MH_HELP_BOT
+️📌 Any Help For Movie Searching Contact Admin @HELP_MH_BOT
 
 
 
@@ -38,7 +38,7 @@ Bro, Check Movie Name In #Google and Try ! Then No Results Add Movie Year and Tr
 ABOUT = """
 ➥ Name : 🔎 File Search Bot 🔍
     
-➥ Maintained By : [ MH BOTZ ](https:))t.me/mh_botz)
+➥ Maintained By : [ MH BOTZ ](https://t.me/mh_botz)
 
 
 ➥ Language : Python3
