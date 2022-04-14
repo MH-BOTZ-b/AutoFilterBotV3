@@ -113,9 +113,9 @@ async def start(bot, message):
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=START_MSG
-            parse_mode="Markdown",
+            parse_mode="HTML",
             disable_web_page_preview=True,
-            reply_markup=InlineKeyboardMarkup(
+            reply_markup=inlinekeyboardmarkup(
                 [[
                 InlineKeyboardButton("🔎 Search Movies 🔍", switch_inline_query_current_chat='')
                 ],[
