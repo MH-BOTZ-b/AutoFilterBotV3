@@ -10,6 +10,7 @@ from LuciferMoringstar_Robot import ABOUT
 from LuciferMoringstar_Robot.Channel import handle_user_status
 from Database import Database
 from pyrogram.errors import UserNotParticipant
+from sample_info import PICS
 logger = logging.getLogger(__name__)
 
 LOG_CHANNEL = BROADCAST_CHANNEL
@@ -109,8 +110,8 @@ async def start(bot, message):
             )
         )
     else:
-        await message.reply_text(
-            START_MSG,
+        await message.reply_photo(
+            random.choice(PICS),
             parse_mode="Markdown",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
