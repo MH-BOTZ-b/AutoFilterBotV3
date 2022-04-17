@@ -9,7 +9,7 @@ USERBOT_STRING_SESSION = 'LuciferMoringstar_Robot'
 # Bot settings
 CACHE_TIME = 300
 USE_CAPTION_FILTER = False
-PICS = (environ.get('PICS', 'https://telegra.ph/file/671394d6b59ca2b6cecfe.jpg')).split()
+PICS = 'https://t.me/share/url?url=https://t.me/File_search_V3_Bot'
 
 # Admins, Channels & Users
 ADMINS = [12345789, 'admin123', 987654321]
