@@ -111,11 +111,7 @@
             "value": "",
             "required": true
         },
-        "PICS": {
-            "description": "Add a Telegraph Pic",
-            "value": "",
-            "required": false
-        }
+        
 },
     "addons":[],
     "buildpacks": [
